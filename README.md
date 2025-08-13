@@ -2,4 +2,4 @@
 
 
 
-Check out this game  [here](https://irfanriyad-game.netlify.app).
+Check out for this game  (https://irfanriyad-game.netlify.app).
